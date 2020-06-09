@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24626558095",
+    "firebase_url": "https://bookclub-cfbcb.firebaseio.com",
+    "project_id": "bookclub-cfbcb",
+    "storage_bucket": "bookclub-cfbcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24626558095:android:c12e82937b7d7499b5ecfa",
+        "android_client_info": {
+          "package_name": "com.example.vaccinedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24626558095-ivd4fusi2vkh3vehok5p4kvf706ag9o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaccinedemo",
+            "certificate_hash": "53d70246452b3ef0d0c07e272ebbdd068cf83502"
+          }
+        },
+        {
+          "client_id": "24626558095-8afd52lnf29ojfje04vsdrku9hsii6r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEKwEBL6jLYUmaNj9dYfBuMzg36NLwvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24626558095-8afd52lnf29ojfje04vsdrku9hsii6r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
